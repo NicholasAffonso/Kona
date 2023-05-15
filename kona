@@ -1,0 +1,30 @@
+#!/bin/bash
+
+apt update
+apt upgrade
+
+# Habilita o acesso ao sistema de arquivos
+termux-setup-storage
+
+mkdir ~/nic/dev
+
+apt install -y $(cat pkgs)
+
+# Configurando o git
+git config --global user.name "Nicholas Affonso"
+git config --global user.email "nicholasaffonsop@gmail.com"
+
+# Git repos
+git clone https://github.com/adi1090x/termux-style ~/.termux-style
+
+
+# Install color theme
+cd ~/.termux-style
+./install
+
+# Python pip
+pip install fsociety
+
+
+# Oh-My-Bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
