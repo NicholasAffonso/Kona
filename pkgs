@@ -1,6 +1,5 @@
 vim
 neofetch
-htop
 which
 nodejs
 openjdk-17
@@ -8,6 +7,7 @@ git
 curl
 wget
 zip
+gzip
 unzip
 nmap
 dnslookup
@@ -22,4 +22,19 @@ tor
 ipfs
 proxychains-ng
 termux-api
-
+swift-sdk-arm
+swift-runtime-arm
+scrcpy
+play-audio
+android-tools
+dpkg-perl
+libapt-pkg-perl
+libregexp-assemble-perl
+pcre2grep
+perl-rename
+sendxmpp
+subversion-perl
+subversion-perl-static
+weechat-perl-plugin
+clang
+tsu
