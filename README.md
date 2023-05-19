@@ -6,16 +6,16 @@ Entre na pasta do programa e rode o comando `./kona`
 
 ### Extensões para o termux
 
-Para instalar o [Termux:Boot](https://f-droid.org/packages/com.termux.boot/)
+[Termux:Boot](https://f-droid.org/packages/com.termux.boot/)
 
-Para instalar o [Termux:API](https://f-droid.org/en/packages/com.termux.api/)
+[Termux:API](https://f-droid.org/en/packages/com.termux.api/)
 
-Para instalar o [Termux:Widget](https://f-droid.org/en/packages/com.termux.widget/)
+[Termux:Widget](https://f-droid.org/en/packages/com.termux.widget/)
 
-Para instalar o [Termux:Styling](https://f-droid.org/packages/com.termux.styling/)
+[Termux:Styling](https://f-droid.org/packages/com.termux.styling/)
 
-Para instalar o [Termux:Float](https://f-droid.org/en/packages/com.termux.window/)
+[Termux:Float](https://f-droid.org/en/packages/com.termux.window/)
 
-Para instalar o [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)
+[Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)
 
 
