@@ -1,8 +1,6 @@
 # Kona
 
-Kona é um sistema de configuraçao para o termux
-permite configurar um ambiente novo ou remover todas modificações aplicadas por meio dele.
-
+Kona é um sistema de configuraçao para o termux, aplica temas e instala pacotes úteis
 ### Instalação
 Entre na pasta do programa
 Inicie o programa com comando `./kona`
