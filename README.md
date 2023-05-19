@@ -4,7 +4,7 @@ Kona é um sistema de configuraçao para o termux, aplica temas e instala pacote
 ### Forma de uso
 Entre na pasta do programa e rode o comando `./kona`
 
-Extensões para o termux
+### Extensões para o termux
 
 Para instalar o [Termux:Boot](https://f-droid.org/packages/com.termux.boot/)
 
